@@ -1,2 +1,2 @@
 # Zinc-Maps
-Online map configuration files for Zinc navigation app
+Online map configuration file examples for Zinc navigation app
